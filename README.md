@@ -1,4 +1,3 @@
-dtk20IPhone
+Detektor 2.0 para Iphone
 ===========
 
-dtk20IPhone
